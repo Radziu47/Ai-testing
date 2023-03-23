@@ -1,2 +1,2 @@
 # Ai-testing
-Learing AI
+Learning Ai/Selenium
